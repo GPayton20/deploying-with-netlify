@@ -3,21 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Deploying with Netlify</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis veniam quod atque minima sed sunt, eveniet adipisci. Soluta pariatur eligendi totam nulla veniam! Vero, est!</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis harum exercitationem debitis ratione, culpa rerum provident eius libero nihil assumenda facilis quod ut suscipit cum corporis dolore minus quas consectetur voluptatum illum vero! Corporis, voluptatem sapiente! Fuga et repellendus culpa odit dignissimos, dolores architecto suscipit, dolore excepturi aliquam laborum mollitia!</p>
     </div>
   );
 }
